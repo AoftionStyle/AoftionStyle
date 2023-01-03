@@ -1,12 +1,14 @@
 Hi 👋 My name is CHUTIPON PONGPANIT
 ===================================
 
-Senior, Junior Software Engineer
+Software Engineer
 --------------------------------
 
 Currently I looking for sustainable solution to long live world, I trust I be able solved apart of that. So that's why I've been BS. Computer Science in 2012. Then I become employee that's company make thing impact to country.
 
 * 🌍  I'm based in Thailand, Bangkok
+* 🧑‍🚀  I'm working on Java + Spring, Typescript
+* 🚀  I'm working on Architecture
 * 🧠  I'm learning Web 3.0, Blockchain
 * 🤝  I'm open to collaborating on Web 3.0, Blockchain Dev
 
